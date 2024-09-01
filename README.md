@@ -8,3 +8,4 @@ Fostering a sense of peace and well-being that combats the negative effects of m
 🛠 Technologies Used
 HTML5: The backbone of the website, providing structure to the content.
 CSS3: Styling the project with a nature-themed aesthetic.
+Author- Himanshu Pandey
